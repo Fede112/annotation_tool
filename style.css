@@ -1,0 +1,23 @@
+body, button, input{
+    font-family: 'Lato', sans-serif;
+}
+#classfierImage{
+    width: 500px;
+    position: absolute;
+}
+
+#myCanvas{
+    position: relative;
+}
+
+
+#buttons {
+	position: relative;
+	/*right: -50px;*/
+	/*display:inline-block;*/
+}
+
+#clearAll{
+	position: relative;
+	right: -80px;
+}
